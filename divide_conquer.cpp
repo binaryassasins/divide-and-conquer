@@ -1,13 +1,3 @@
-/**
- * @file divide_conquer.cpp
- * @author Ammar Haziq Bin Annas, Mohamad Syafiq Asyraf Bin Bharudin
- * @brief Divide and Conquer
- * @version 0.1
- * @date 2023-04-18
- * 
- * @copyright Copyright (c) 2023
- * 
- */
 #include <iostream>
 #include <cstdlib>
 
